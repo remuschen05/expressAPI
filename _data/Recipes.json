@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Beef Stew",
+    "description": "All American Beef Stew",
+    "ingredients": [
+      {
+        "name": "Mushrooms",
+        "quantity": "4"
+      },
+      {
+        "name": "Carrots",
+        "quantity": "4"
+      },
+      {
+        "name": "Potatos",
+        "quantity": "1"
+      },
+      {
+        "name": "Beef Chuck",
+        "quantity": "1"
+      },
+      {
+        "name": "Fish Sauce",
+        "quantity": "1"
+      }
+    ],
+    "steps": ["Cut the vegetables", "Roast the Beef"]
+  }
+]
